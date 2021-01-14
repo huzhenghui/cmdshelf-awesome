@@ -1,0 +1,6 @@
+awesome:highlight-copy.sh
+awesome:cmdshelf/build/pandoc-lua-filters/runtests.sh
+awesome:cmdshelf/build/pandoc-lua-filters/minted/background_color.py
+awesome:cmdshelf/build/pandoc-lua-filters/minted/run_minted_tests.py
+awesome:highlight.sh
+awesome:highlight-browser.sh
