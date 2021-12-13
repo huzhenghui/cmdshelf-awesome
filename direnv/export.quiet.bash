@@ -4,3 +4,4 @@ pushd "${direnv_dir}" 1>/dev/null
 eval "$(direnv export bash 2>/dev/null)"
 popd 1>/dev/null
 echo FOO="${FOO}"
+procs --tree $$

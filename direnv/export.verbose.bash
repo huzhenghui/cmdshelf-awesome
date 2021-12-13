@@ -4,3 +4,4 @@ pushd "${direnv_dir}"
 eval "$(direnv export bash)"
 popd
 echo FOO="${FOO}"
+procs --tree $$
